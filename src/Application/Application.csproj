@@ -10,7 +10,6 @@
       <Folder Include="Behaviors\" />
       <Folder Include="DTOs\" />
       <Folder Include="Features\Auth\" />
-      <Folder Include="Features\Documents\" />
     </ItemGroup>
 
     <ItemGroup>
